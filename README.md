@@ -2,7 +2,7 @@
 
 I am a Javascript developer that loves building full-stack applications with React & Node. You can find me always finding ways to improve my skills & knowledge to become a better developer. In my spare time, I enjoy playing guitar, exercising & being outdoors!
 
-Skills: CSS | HTML | Javascript | MongoDB | NodeJS | React
+Skills: CSS | HTML | Javascript | MongoDB | NodeJS | React | Redux
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallasclarke&count_private=true&show_icons=true&theme=dracula&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallasclarke&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
