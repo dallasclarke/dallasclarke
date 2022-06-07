@@ -1,8 +1,7 @@
-# Hi there 👋, my name is Dallas Clarke!
+# Hi there 👋, I am Dallas Clarke!
 
-I am a Javascript developer that loves building full-stack applications with React & Node. You can find me always finding ways to improve my skills & knowledge to become a better developer. I spend my spare time building and modifying Shopify stores, playing guitar, exercising & being outdoors. I am also a super big fan of free & open source software & Linux.
-
-Skills: CSS | HTML | Javascript | MongoDB | NodeJS | Shopify | Svelte | React | Redux
+I am a Software Engineer on the Analyst team at Emsi Burning Glass. My team focuses on the Backend & Infrastructure using technologies like:
+PHP | MySQL | Docker | Kubernetes | Terraform | AWS | Javascript
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallasclarke&count_private=true&show_icons=true&theme=dracula&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)\ -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallasclarke&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
